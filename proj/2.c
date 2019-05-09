@@ -3,5 +3,5 @@
 int main( void ){
 	
 	printf("Good\n\r");
-	
+	printf("1");	
 }
